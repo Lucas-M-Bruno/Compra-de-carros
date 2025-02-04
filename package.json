@@ -1,0 +1,12 @@
+{
+  "name": "modulo10-main",
+  "version": "1.0.0",
+  "description": "Este projeto consiste em uma página HTML interativa para a aquisição de veículos, onde o principal objetivo foi praticar o uso de HTML, CSS e JavaScript, além da implementação de plugins jQuery para máscaras de preenchimento e validação de formulários.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Bruno <lucasmoura3108@gmail.com>",
+  "license": "MIT"
+}
